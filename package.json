@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "logger": "github:ResonanceHolding/logger",
+    "moment": "^2.29.4",
     "pg": "^8.8.0",
     "pg-format": "^1.0.4"
   }
